@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps:
 
 ## Authors
 
-👤 **Carloso0114**
+👤 **Rodrigo Ibaceta**
 
 - GitHub: [@RokoVarano]()
 - LinkedIn: [Rodrigo Ibaceta Jimenez](https://www.linkedin.com/in/carlosospina/)
