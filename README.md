@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple steps:
 2. Press the "Code" button and copy the link.
 3. Clone it using git command `git clone <link>`.
 4. In the project folder open the schema.sql with an editor of your prefference.
-5. Open PG admin and then...
+5. Open PG admin and then create a new server with the localhost address, then use the query tool and paste the schema.sql content inside and run it.
 
 ## :blue_book: Learning Objectives
 
