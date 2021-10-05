@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps:
 
 ## Authors
 
-👤 **Carloso0114**
+👤 **Rodrigo Ibaceta**
 
 - GitHub: [@RokoVarano]()
 - LinkedIn: [Rodrigo Ibaceta Jimenez](https://www.linkedin.com/in/carlosospina/)
@@ -32,6 +32,10 @@ To get a local copy up and running follow these simple steps:
 
 - GitHub: [@carloso0114](https://github.com/carloso0114)
 - LinkedIn: [Carlos Ospina](https://www.linkedin.com/in/carlosospina/)
+
+👤 **Andres Felipe Castañeda Ramos**
+- Github: [@afcastaneda223](https://github.com/afcastaneda223)
+- Linkedin: [Andres Felipe Castañeda](https://www.linkedin.com/in/andcast)
 
 ## 🤝 :raised_hand: :raised_hand: Contributions
 
